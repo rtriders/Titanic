@@ -1,4 +1,4 @@
-# Titanic
+# Titanic Dataset
 ## Analysis And Prediction of the number of survivors of the famous Titanic Dataset. Includes Visualization using seaborn,plotly , Datapreprocessing and result prediction and Accuracy testing.
 
 The training set is used to build  machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.
